@@ -1,0 +1,11 @@
+Projeto 03 - Projeto com FeedBack - DSA
+
+Projeto realizado para o curso Formação Cientista de Dados da escola
+DSA (Data Science Academy).
+
+Nesse projeto é realizado a analise dos dados para criar gráficos para responder a
+algumas perguntas de negócios referente a incidentes ocorridos nos ônibus de Londres.
+
+Foi utilizado a linguagem Python e o Jupyter Notebook para o desenvolvimento do código. 
+Utilizado MatplotLib para a criação de gráficos. Criado um dashboard em Microsoft Power Bi
+com todos os gráficos.
